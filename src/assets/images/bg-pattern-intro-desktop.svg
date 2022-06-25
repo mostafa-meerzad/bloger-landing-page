@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2223.677" height="2229.752" viewBox="0 0 2223.677 2229.752">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.006" x2="0.994" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff8f71"/>
+      <stop offset="1" stop-color="#ff3e55"/>
+    </linearGradient>
+  </defs>
+  <path id="bg-pattern-intro-desktop" d="M1973.15,1193.19V1981.6H1186.384V1293.19a100,100,0,0,1,100-100h686.767Zm-1310.44-1.171c217.26,0,393.383,176.124,393.383,393.383v1.645c0,217.26-176.123,393.383-393.383,393.383S269.322,1804.3,269.322,1587.04V1585.4c0-217.26,176.124-393.383,393.383-393.383ZM1054.922,265.6v688.41a100,100,0,0,1-100,100H268.151V265.6h786.766Zm918.234,0v788.41H1286.389a100,100,0,0,1-100-100V265.6h786.767Z" transform="matrix(0.927, 0.375, -0.375, 0.927, 493.703, -346.712)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+</svg>

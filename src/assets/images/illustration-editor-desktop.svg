@@ -1,0 +1,22 @@
+<svg id="illustration-editor-desktop" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="885" height="882" viewBox="0 0 885 882">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.279" x2="1" y2="0.721" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff8f71"/>
+      <stop offset="1" stop-color="#ff3e55"/>
+    </linearGradient>
+  </defs>
+  <rect id="Rectangle_1" data-name="Rectangle 1" width="600" height="602" rx="300" transform="translate(145 144)" fill="#2d2e40" opacity="0.08"/>
+  <rect id="Rectangle_2" data-name="Rectangle 2" width="679" height="681" rx="339.5" transform="translate(105.5 100.5)" fill="none" stroke="#2d2e40" stroke-width="1" opacity="0.5"/>
+  <rect id="Rectangle_3" data-name="Rectangle 3" width="879" height="881" rx="439.5" transform="translate(5.5 0.5)" fill="none" stroke="#2d2e40" stroke-width="1" opacity="0.25"/>
+  <g id="Group_2" data-name="Group 2" transform="translate(0 242)">
+    <g id="Group_1" data-name="Group 1">
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="642" height="427" rx="15"/>
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="642" height="427" rx="15" fill="url(#linear-gradient)"/>
+    </g>
+    <path id="Path_1" data-name="Path 1" d="M3,125H639a3,3,0,0,1,3,3V424a3,3,0,0,1-3,3H3a3,3,0,0,1-3-3V128a3,3,0,0,1,3-3Z" fill="#2d2e40"/>
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="135.785" height="137.165" rx="3" transform="translate(90.523 47.709)" fill="#fff"/>
+    <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="39.306" cy="39.36" rx="39.306" ry="39.36" transform="translate(119.11 77.528)" fill="#2d2e40"/>
+    <rect id="Rectangle_7" data-name="Rectangle 7" width="302.538" height="325.617" rx="3" transform="translate(248.939 47.709)" fill="#fff"/>
+  </g>
+  <path id="Path_2" data-name="Path 2" d="M209,284q70.688-110.051,104.557-118.938c33.87-8.886,23.765,83.14,72.535,72.473s54.716-103.974,91.6-108.37,56.4,80.946,72.515,88.81q16.113,7.861,39.79-34.007" transform="translate(0 242)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="8" fill-rule="evenodd"/>
+</svg>
